@@ -55,7 +55,7 @@ for d in dataset:
     hour, _, _ = val6.split(':')
     d['MonthOfOutcome'] = float(month)
     d['DayOfOutcome'] = float(day)
-    d['hourOfOutcome'] = float(hour)
+    d['HourOfOutcome'] = float(hour)
 
 # TODO: Write new CSV file to avoid having to recompute
 
