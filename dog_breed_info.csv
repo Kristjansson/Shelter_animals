@@ -1,0 +1,230 @@
+breed,breed_group,height_low,height_high,weight_low,weight_high,life_span_low,life_span_high
+Affenpinscher,Toy,9.0,11.5,6.0,13.0,10.0,12.0
+Afghan Hound,Hound,25.0,27.0,50.0,60.0,10.0,13.0
+Airedale Terrier,Terrier,21.0,23.0,40.0,65.0,10.0,13.0
+Akbash Dog,Working,28.0,34.0,90.0,120.0,10.0,12.0
+Akita,Working,24.0,28.0,65.0,115.0,10.0,14.0
+Alapaha Blue Blood Bulldog,Mixes and More,18.0,24.0,55.0,90.0,12.0,13.0
+Alaskan Husky,Mixes and More,,,38.0,50.0,10.0,13.0
+Alaskan Malamute,Working,23.0,25.0,65.0,100.0,12.0,15.0
+American Eskimo,Non-Sporting,,,,,12.0,15.0
+American Foxhound,Hound,21.0,28.0,65.0,75.0,8.0,15.0
+American Staffordshire Terrier,Terrier,17.0,19.0,50.0,60.0,12.0,15.0
+American Water Spaniel,Sporting,15.0,18.0,25.0,45.0,10.0,12.0
+Anatolian Shepherd Dog,Working,27.0,29.0,80.0,150.0,11.0,13.0
+Aussiedoodle,Mixes and More,,,25.0,70.0,10.0,12.0
+Australian Cattle Dog,Herding,17.0,20.0,44.0,62.0,12.0,14.0
+Australian Kelpie,Herding,,,31.0,46.0,10.0,13.0
+Australian Shepherd,Herding,18.0,23.0,35.0,65.0,12.0,16.0
+Australian Terrier,Terrier,10.0,11.0,14.0,16.0,,
+Azawakh,Hound,23.0,29.0,33.0,55.0,10.0,13.0
+Basador,Mixes and More,,,50.0,70.0,10.0,12.0
+Basenji,Hound,16.0,17.0,22.0,24.0,10.0,12.0
+Basset Hound,Hound,,,50.0,65.0,12.0,15.0
+Beagle,Hound,,,20.0,35.0,13.0,16.0
+Bearded Collie,Herding,20.0,22.0,45.0,55.0,12.0,14.0
+Beauceron,Herding,24.0,27.5,80.0,110.0,10.0,12.0
+Bedlington Terrier,Terrier,15.0,16.0,17.0,23.0,14.0,16.0
+Belgian Laekenois,Herding,22.0,26.0,45.0,65.0,10.0,12.0
+Belgian Malinois,Herding,22.0,26.0,40.0,80.0,12.0,14.0
+Belgian Sheepdog,Herding,22.0,26.0,40.0,75.0,12.0,14.0
+Belgian Tervuren,Herding,22.0,26.0,40.0,65.0,10.0,12.0
+Bergamasco,Herding,22.0,23.5,55.0,85.0,13.0,15.0
+Berger Picard,Herding,21.5,25.5,55.0,70.0,12.0,15.0
+Bernese Mountain Dog,Working,23.0,27.5,65.0,120.0,7.0,10.0
+Bichon Frise,Non-Sporting,9.5,11.5,10.0,18.0,,
+Black and Tan Coonhound,Hound,23.0,27.0,65.0,100.0,10.0,12.0
+Black Russian Terrier,Working,26.0,30.0,80.0,145.0,10.0,11.0
+Bloodhound,Hound,23.0,27.0,80.0,110.0,8.0,10.0
+Bluetick Coonhound,Hound,21.0,27.0,45.0,80.0,12.0,14.0
+Boerboel,Working,22.0,27.0,110.0,200.0,10.0,12.0
+Bolognese,Toy,9.0,12.0,7.0,12.0,13.0,15.0
+Border Collie,Herding,18.0,22.0,30.0,45.0,12.0,16.0
+Border Terrier,Terrier,,,11.5,15.5,12.0,14.0
+Borzoi,Hound,26.0,28.0,55.0,120.0,10.0,13.0
+Boston Terrier,Non-Sporting,,,10.0,25.0,11.0,13.0
+Bouvier des Flandres,Herding,23.5,27.5,70.0,110.0,10.0,15.0
+Boxer,Working,21.5,25.0,50.0,70.0,8.0,10.0
+Boykin Spaniel,Sporting,14.0,18.0,25.0,40.0,10.0,14.0
+Briard,Herding,22.0,27.0,70.0,90.0,10.0,12.0
+Brittany,Sporting,17.5,20.5,30.0,45.0,12.0,14.0
+Brussels Griffon,Toy,,,8.0,12.0,12.0,15.0
+Bull Terrier,Terrier,21.0,22.0,50.0,70.0,10.0,12.0
+Bulldog,Non-Sporting,,,40.0,50.0,8.0,10.0
+Bullmastiff,Working,24.0,27.0,100.0,130.0,8.0,12.0
+Cairn Terrier,Terrier,9.0,10.0,13.0,14.0,14.0,15.0
+Canaan Dog,Herding,19.0,24.0,35.0,55.0,12.0,14.0
+Cane Corso,Working,23.5,27.5,88.0,120.0,10.0,11.0
+Cardigan Welsh Corgi,Herding,10.5,12.5,25.0,38.0,,
+Catahoula Leopard Dog,Herding,20.0,26.0,50.0,95.0,10.0,12.0
+Caucasian Ovcharka,Working,24.0,33.5,80.0,100.0,10.0,12.0
+Cavalier King Charles Spaniel,Toy,12.0,13.0,13.0,18.0,10.0,14.0
+Cavapom,Mixes and More,,,8.0,20.0,10.0,12.0
+Cavapoo,Mixes and More,,,12.0,25.0,10.0,15.0
+Cesky Terrier,Terrier,10.0,13.0,14.0,24.0,10.0,15.0
+Chart Polski,Hound,26.5,31.5,65.0,95.0,10.0,13.0
+Chesapeake Bay Retriever,Sporting,21.0,26.0,55.0,80.0,10.0,13.0
+Chihuahua,Toy,,,,,12.0,20.0
+Chinese Crested,Toy,11.0,13.0,10.0,13.0,10.0,14.0
+Chinese Shar-Pei,Non-Sporting,18.0,20.0,45.0,60.0,,
+Chinook,Working,22.0,26.0,50.0,90.0,12.0,15.0
+Chow Chow,Non-Sporting,17.0,20.0,40.0,70.0,12.0,15.0
+Chug,Mixes and More,,,10.0,20.0,10.0,13.0
+Cirneco dell'Etna,Hound,16.5,19.5,18.0,27.0,12.0,14.0
+Clumber Spaniel,Sporting,17.0,20.0,55.0,85.0,10.0,12.0
+Cockapoo,Mixes and More,,,10.0,30.0,14.0,18.0
+Cocker Spaniel,Sporting,14.0,15.0,20.0,30.0,12.0,15.0
+Collie,Herding,22.0,26.0,50.0,70.0,10.0,14.0
+Coton de Tulear,Non-Sporting,9.0,11.0,9.0,15.0,13.0,16.0
+Curly-Coated Retriever,Sporting,23.0,27.0,60.0,70.0,10.0,15.0
+Dachshund,Hound,,,,,12.0,15.0
+Dalmatian,Non-Sporting,19.0,23.0,,,10.0,13.0
+Dandie Dinmont Terrier,Terrier,8.0,11.0,18.0,24.0,12.0,14.0
+Doberman Pinscher,Working,24.0,28.0,66.0,88.0,,
+Dogo Argentino,Working,23.5,27.0,80.0,100.0,10.0,12.0
+Dogue de Bordeaux,Working,23.0,27.0,90.0,160.0,5.0,10.0
+Doxiepoo,Mixes and More,,,10.0,30.0,10.0,15.0
+English Cocker Spaniel,Sporting,15.0,17.0,26.0,34.0,12.0,14.0
+English Foxhound,Hound,,,60.0,70.0,10.0,13.0
+English Setter,Sporting,24.0,25.0,45.0,80.0,,
+English Springer Spaniel,Sporting,19.0,20.0,35.0,50.0,12.0,14.0
+English Toy Spaniel,Toy,,,8.0,14.0,10.0,12.0
+Entlebucher Mountain Dog,Herding,16.0,20.0,45.0,65.0,10.0,13.0
+Eurasier,Non-Sporting,20.5,23.5,40.0,70.0,12.0,14.0
+Field Spaniel,Sporting,17.0,18.0,35.0,50.0,11.0,15.0
+Fila Brasileiro,Working,23.5,29.5,90.0,100.0,10.0,12.0
+Finnish Lapphund,Herding,16.0,21.0,33.0,53.0,12.0,15.0
+Finnish Spitz,Non-Sporting,15.5,20.0,23.0,28.0,12.0,15.0
+Flat-Coated Retriever,Sporting,22.0,24.5,60.0,70.0,10.0,13.0
+Fox Terrier,Terrier,,,,,12.0,14.0
+French Bulldog,Non-Sporting,11.0,12.0,,,9.0,11.0
+German Pinscher,Working,17.0,20.0,25.0,45.0,12.0,14.0
+German Shepherd Dog,Herding,22.0,26.0,50.0,90.0,10.0,13.0
+German Shorthaired Pointer,Sporting,21.0,25.0,45.0,70.0,12.0,14.0
+German Wirehaired Pointer,Sporting,22.0,26.0,45.0,75.0,14.0,16.0
+Giant Schnauzer,Working,23.5,27.5,65.0,90.0,10.0,12.0
+Glen of Imaal Terrier,Terrier,12.5,14.0,32.0,40.0,12.0,15.0
+Golden Retriever,Sporting,21.5,24.0,55.0,75.0,10.0,12.0
+Goldendoodle,Mixes and More,13.0,24.0,,,10.0,15.0
+Gordon Setter,Sporting,23.0,27.0,45.0,80.0,10.0,12.0
+Great Dane,Working,28.0,32.0,110.0,190.0,7.0,10.0
+Great Pyrenees,Working,25.0,32.0,85.0,115.0,10.0,12.0
+Greater Swiss Mountain Dog,Working,23.5,28.5,85.0,140.0,7.0,9.0
+Greyhound,Hound,,,50.0,70.0,10.0,13.0
+Harrier,Hound,18.0,22.0,40.0,60.0,12.0,15.0
+Havanese,Toy,8.5,11.5,7.0,13.0,14.0,15.0
+Ibizan Hound,Hound,22.5,27.5,45.0,50.0,11.0,14.0
+Icelandic Sheepdog,Herding,16.5,18.0,20.0,45.0,12.0,15.0
+Irish Red and White Setter,Sporting,22.5,26.0,50.0,75.0,11.0,15.0
+Irish Setter,Sporting,24.0,27.0,35.0,70.0,10.0,11.0
+Irish Terrier,Terrier,,,25.0,27.0,12.0,16.0
+Irish Water Spaniel,Sporting,21.0,24.0,45.0,68.0,12.0,15.0
+Irish Wolfhound,Hound,30.0,35.0,105.0,180.0,6.0,8.0
+Italian Greyhound,Toy,13.0,15.0,7.0,15.0,12.0,15.0
+Jack Russell Terrier,Terrier,13.0,14.0,13.0,17.0,12.0,14.0
+Japanese Chin,Toy,8.0,11.0,4.0,9.0,12.0,14.0
+Keeshond,Non-Sporting,17.0,18.0,35.0,45.0,12.0,15.0
+Kerry Blue Terrier,Terrier,17.5,19.5,33.0,40.0,12.0,15.0
+Komondor,Working,25.5,27.5,80.0,100.0,10.0,12.0
+Kooikerhondje,Sporting,14.0,16.0,20.0,30.0,12.0,15.0
+Kuvasz,Working,26.0,30.0,70.0,115.0,8.0,10.0
+Labradoodle,Mixes and More,14.0,24.0,,,10.0,15.0
+Labrador Retriever,Sporting,21.5,24.5,55.0,80.0,10.0,13.0
+Lacy Dog,Working,17.0,22.0,30.0,50.0,12.0,16.0
+Lagotto Romagnolo,Sporting,16.0,19.0,24.0,35.0,14.0,16.0
+Lakeland Terrier,Terrier,,,15.0,17.0,12.0,15.0
+Large Munsterlander,Mixes and More,23.0,25.0,50.0,75.0,11.0,13.0
+Leonberger,Working,25.5,31.5,120.0,170.0,6.0,8.0
+Lhasa Apso,Non-Sporting,10.0,11.0,12.0,18.0,12.0,15.0
+Lhasapoo,Mixes and More,,,10.0,20.0,12.0,15.0
+Longdog,Mixes and More,24.0,30.0,35.0,100.0,10.0,13.0
+Lowchen,Non-Sporting,12.0,13.0,,,12.0,15.0
+Lurcher,Mixes and More,27.0,30.0,35.0,100.0,10.0,15.0
+Maltese,Toy,8.0,10.0,4.0,7.0,,
+Maltipoo,Mixes and More,,,5.0,15.0,10.0,15.0
+Manchester Terrier,Terrier,15.0,16.0,,,14.0,16.0
+Mastiff,Working,27.5,30.0,120.0,230.0,8.0,10.0
+Miniature Bull Terrier,Terrier,10.0,14.0,20.0,35.0,11.0,12.0
+Miniature Pinscher,Toy,10.0,12.5,8.0,11.0,,
+Miniature Schnauzer,Terrier,12.0,14.0,11.0,20.0,12.0,14.0
+Neapolitan Mastiff,Working,24.0,31.0,110.0,200.0,8.0,10.0
+Newfoundland,Working,26.0,28.0,100.0,150.0,8.0,10.0
+Norfolk Terrier,Terrier,9.0,10.0,11.0,12.0,12.0,15.0
+Norwegian Buhund,Herding,16.0,18.5,26.0,40.0,12.0,15.0
+Norwegian Elkhound,Hound,19.5,20.5,48.0,55.0,10.0,12.0
+Norwegian Lundehund,Non-Sporting,12.0,15.0,13.0,16.0,6.0,8.0
+Norwich Terrier,Terrier,,,11.0,12.0,12.0,15.0
+Nova Scotia Duck Tolling Retriever,Sporting,17.0,21.0,35.0,50.0,12.0,14.0
+Old English Sheepdog,Herding,,,60.0,100.0,10.0,12.0
+Otterhound,Hound,24.0,28.0,65.0,125.0,10.0,15.0
+Papillon,Toy,8.0,11.0,3.0,12.0,13.0,17.0
+Pekeapoo,Mixes and More,8.0,15.0,8.0,20.0,12.0,14.0
+Pekingese,Toy,,,,,14.0,18.0
+Pembroke Welsh Corgi,Herding,10.0,12.0,25.0,30.0,12.0,14.0
+Perro de Presa Canario,Working,22.0,25.5,88.0,110.0,10.0,12.0
+Peruvian Inca Orchid,Hound,17.0,22.0,8.5,55.0,11.0,12.0
+Petit Basset Griffon Vendeen,Hound,13.0,15.0,25.0,42.0,10.0,14.0
+Pharaoh Hound,Hound,21.0,25.0,40.0,60.0,12.0,14.0
+Plott,Hound,20.0,25.0,40.0,60.0,12.0,14.0
+Pointer,Sporting,23.0,28.0,45.0,75.0,12.0,15.0
+Polish Lowland Sheepdog,Herding,17.0,20.0,35.0,55.0,10.0,12.0
+Pomapoo,Mixes and More,8.0,10.0,5.0,15.0,12.0,14.0
+Pomeranian,Toy,8.0,12.0,3.0,7.0,,
+Poodle,Non-Sporting,,,,,14.0,18.0
+Portuguese Podengo,Hound,,,,,10.0,14.0
+Portuguese Water Dog,Working,17.0,23.0,35.0,60.0,10.0,14.0
+Pug,Toy,,,14.0,18.0,12.0,14.0
+Pugapoo,Mixes and More,8.0,15.0,10.0,30.0,12.0,14.0
+Puggle,Mixes and More,8.0,15.0,15.0,30.0,12.0,14.0
+Puli,Herding,16.0,17.0,25.0,35.0,12.0,16.0
+Pyrenean Shepherd,Herding,15.0,20.5,15.0,32.0,12.0,16.0
+Rat Terrier,Terrier,,,8.0,25.0,12.0,18.0
+Redbone Coonhound,Hound,21.0,27.0,45.0,80.0,10.0,12.0
+Rhodesian Ridgeback,Hound,24.0,27.0,75.0,80.0,10.0,12.0
+Rottweiler,Working,22.0,27.0,,,8.0,10.0
+Saint Bernard,Working,25.5,27.5,130.0,180.0,7.0,10.0
+Saluki,Hound,23.0,28.0,35.0,65.0,12.0,14.0
+Samoyed,Working,19.0,23.5,50.0,60.0,12.0,14.0
+Schipperke,Non-Sporting,10.0,13.0,10.0,16.0,13.0,15.0
+Schnoodle,Mixes and More,10.0,12.0,10.0,20.0,13.0,17.0
+Scottish Deerhound,Hound,28.0,32.0,70.0,130.0,8.0,10.0
+Scottish Terrier,Terrier,,,18.0,22.0,11.0,13.0
+Sealyham Terrier,Terrier,,,20.0,24.0,14.0,17.0
+Shetland Sheepdog,Herding,13.0,16.0,,,12.0,14.0
+Shiba Inu,Non-Sporting,13.5,16.5,17.0,23.0,12.0,16.0
+Shih Tzu,Toy,8.0,11.0,9.0,16.0,10.0,18.0
+Shihpoo,Mixes and More,8.0,15.0,7.0,20.0,,
+Siberian Husky,Working,20.0,23.5,35.0,60.0,,
+Silken Windhound,Mixes and More,18.5,23.5,20.0,45.0,,
+Silky Terrier,Toy,9.0,10.0,8.0,10.0,12.0,15.0
+Skye Terrier,Terrier,9.0,10.0,35.0,45.0,12.0,14.0
+Sloughi,Hound,24.0,29.0,35.0,65.0,12.0,15.0
+Small Munsterlander Pointer,Sporting,19.0,22.0,35.0,60.0,12.0,14.0
+Soft Coated Wheaten Terrier,Terrier,16.0,18.0,30.0,40.0,12.0,15.0
+Spanish Greyhound,Mixes and More,24.0,27.5,50.0,65.0,10.0,13.0
+Spanish Water Dog,Sporting,16.0,20.0,30.0,50.0,12.0,15.0
+Spinone Italiano,Sporting,22.5,27.5,61.0,85.0,10.0,12.0
+Staffordshire Bull Terrier,Terrier,14.0,16.0,24.0,38.0,12.0,14.0
+Standard Schnauzer,Working,17.5,19.5,30.0,50.0,13.0,15.0
+Sussex Spaniel,Sporting,13.0,15.0,35.0,45.0,10.0,15.0
+Swedish Lapphund,Herding,16.0,20.0,33.0,53.0,10.0,13.0
+Swedish Vallhund,Herding,11.5,13.5,20.0,30.0,12.0,14.0
+Thai Ridgeback,Hound,20.0,24.0,35.0,55.0,10.0,12.0
+Tibetan Mastiff,Working,24.0,26.0,85.0,140.0,10.0,14.0
+Tibetan Spaniel,Non-Sporting,,,9.0,15.0,12.0,15.0
+Tibetan Terrier,Non-Sporting,14.0,17.0,20.0,24.0,12.0,15.0
+Tosa Ken,Mixes and More,22.0,24.0,100.0,200.0,10.0,12.0
+Toy Fox Terrier,Toy,8.0,11.0,4.0,9.0,12.0,15.0
+Toy Poodle,Toy,,,5.0,10.0,14.0,18.0
+Treeing Walker Coonhound,Hound,20.0,27.0,45.0,80.0,10.0,13.0
+Vizsla,Sporting,21.0,24.0,50.0,65.0,10.0,14.0
+Weimaraner,Sporting,23.0,27.0,55.0,90.0,12.0,15.0
+Welsh Springer Spaniel,Sporting,17.0,19.0,35.0,55.0,12.0,15.0
+Welsh Terrier,Terrier,15.0,15.5,20.0,22.0,10.0,14.0
+West Highland White Terrier,Terrier,10.0,11.0,15.0,22.0,15.0,20.0
+Whippet,Hound,18.0,22.0,25.0,35.0,12.0,15.0
+Wirehaired Pointing Griffon,Sporting,20.0,24.0,45.0,70.0,12.0,14.0
+Wirehaired Vizsla,Sporting,21.5,25.0,45.0,65.0,12.0,14.0
+Xoloitzcuintli,Non-Sporting,,,,,12.0,14.0
+Yorkipoo,Mixes and More,,,8.0,15.0,,
+Yorkshire Terrier,Toy,8.0,9.0,4.0,7.0,12.0,16.0
